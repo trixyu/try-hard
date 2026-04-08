@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "opoh0FvF1fq_3OAVo52TqYWxEBkKipl6rjHuIPyy1QbdvbrFmM9BYuVeqNhUgqYDEV_bpCkZ1NeUQwSAGi1Wj9Ar-tBC-5JC-DRQut3KnKOySoh_t8wW_o-2mKQVk7poG8fmNlq6Eeuj1kHQzYiGtv-JCI6utbGOokyB1lgg4iD3WCKpM4eg8310zNu8I2vAwX-gSx2wuqMssAGa7qLuIlzri86SxhQy4vSCpAkPVQTKuYYKmUBROSnz7_Fq97B9EjsWZz8wRkfVIgd7u1njgCZG5CDLPY87gbCvxFWo3-ryI0Z_8w6NTgc6xdhCLQTd0kytgvDR0T2svEU53OZjcQ",
+      "e": "AQAB",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "bottleneck-solutions-epic-rs384-20260407"
+    }
+  ]
+}
